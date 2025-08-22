@@ -1,6 +1,6 @@
 # PomodoroBot
 
-Discord bot for Pomodoro timers.
+Pomodoro timer Discord bot.
 
 ## What it does
 
