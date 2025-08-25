@@ -49,4 +49,4 @@ async def cancelpomodoro(ctx):
     else:
         await ctx.send("You don't have an active Pomodoro running.")
 
-bot.run("MTQwNTI5NzE1NTk5NjEyNzMzNQ.GRjwYq.vazyYhemWZabbRBRLjJEVlQmsFKJn5sITzbF5g")
+bot.run("MY_TOKEN")
